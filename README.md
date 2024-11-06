@@ -1,0 +1,1 @@
+A personal website showcasing interactive web projects like a calculator, memory game, and embedded Unity game. Built with HTML, CSS, JavaScript, and C#, this site highlights my skills in web development, interactivity, and accessibility
